@@ -11,7 +11,7 @@ Links to every course at Noroff Front-End education
 - [Course Assignment](https://content.noroff.dev/css-frameworks/ca.html)
 
 ### JavaScipt 2
--[Module 1](https://content.noroff.dev/javascript-2/module-1.html)
+- [Module 1](https://content.noroff.dev/javascript-2/module-1.html)
 - [Module 2](https://content.noroff.dev/javascript-2/module-2.html)
 - [Module 3](https://content.noroff.dev/javascript-2/module-3.html)
 - [Module 4](https://content.noroff.dev/javascript-2/module-4.html)
